@@ -1,0 +1,7 @@
+{
+  "name": "yp-exercises",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
